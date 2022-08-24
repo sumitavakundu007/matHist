@@ -22,7 +22,6 @@ pip install matHist
 #### Using source code
 ```bash
 git clone https://github.com/sumitavakundu007/matHist.git
-tar -xvf matHist-X.X.X
 cd matHist-X.X.X
 python3 setup.py install --user
 ```
